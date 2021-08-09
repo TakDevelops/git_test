@@ -1,0 +1,1 @@
+This is TakExplore's first git project!
